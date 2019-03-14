@@ -1,0 +1,9 @@
+.houses{
+    height: 88vh;
+    overflow: scroll;    
+    padding:20px;
+}
+
+.house:hover{
+      background-color: #1DB;
+}

@@ -1,0 +1,36 @@
+{
+  "name": "AMFI",
+  "author": "Suraj Sharma",
+  "version": "0.1.1",
+  "private": true,
+  "homepage": "http://surajsharma.github.io/Amfi-Dashboard",
+  "dependencies": {
+    "babel": {},
+    "dotenv": "^6.2.0",
+    "gh-pages": "^2.0.1",
+    "highcharts": "^7.0.3",
+    "prop-types": "^15.6.2",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-highcharts": "^16.0.2",
+    "react-scripts": "^2.1.8",
+    "react-spinjs-fix": "^3.1.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

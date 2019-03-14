@@ -1,0 +1,32 @@
+
+/* styles */
+/* called by your view template */
+
+* {
+  box-sizing: border-box;
+  outline: none;
+
+}
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+.appContainer{
+  margin-top: 20px;
+  padding:20px;
+  overflow: auto;
+}
+
+.column{
+  border-right: 1px dotted #ddd;
+}
+
+.loading{
+    background: black;
+}
+
+.navbar{
+    background: #f4f4f4;
+}
