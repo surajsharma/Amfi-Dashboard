@@ -9,12 +9,14 @@ export default class Quandl extends React.Component{
   render(){
     const options = { 
       global: {useUTC: true},
-      title:{text:"Performance"},
+      title:{text:"Fund Performance"},
       series:[{data: this.props.qData.reverse()}],
       chart: {height: "60%"},
-      credits:{enabled:false},
-      xAxis:{type:'datetime'}
-    }
+      xAxis:{type:'datetime'},
+      yAxis:{title:{text:'Net Asset Value (INR)'}},
+      legend: {enabled: false},
+      credits: {enabled: false}    
+  }
 
     return (
       <div>

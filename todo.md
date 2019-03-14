@@ -4,8 +4,6 @@
 - footer
 
 - Details column
-  - chart
-    - labels/xAxis.title  
 
 - Scroll/Overflow issues   
   - last filtered fund
@@ -17,5 +15,3 @@
 - *Fetch once, store in session
 - Offerings #
 - state sync with search bar
-
-## Other
