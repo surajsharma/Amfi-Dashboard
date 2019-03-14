@@ -1,13 +1,13 @@
 {
-  "main.css": "/amfi/static/css/main.d178efb3.chunk.css",
-  "main.js": "/amfi/static/js/main.c7445012.chunk.js",
-  "main.js.map": "/amfi/static/js/main.c7445012.chunk.js.map",
-  "runtime~main.js": "/amfi/static/js/runtime~main.fad31e48.js",
-  "runtime~main.js.map": "/amfi/static/js/runtime~main.fad31e48.js.map",
-  "static/js/2.afba872f.chunk.js": "/amfi/static/js/2.afba872f.chunk.js",
-  "static/js/2.afba872f.chunk.js.map": "/amfi/static/js/2.afba872f.chunk.js.map",
-  "index.html": "/amfi/index.html",
-  "precache-manifest.e143c39056b763362cafba94f296170c.js": "/amfi/precache-manifest.e143c39056b763362cafba94f296170c.js",
-  "service-worker.js": "/amfi/service-worker.js",
-  "static/css/main.d178efb3.chunk.css.map": "/amfi/static/css/main.d178efb3.chunk.css.map"
+  "main.css": "/Amfi-Dashboard/static/css/main.d178efb3.chunk.css",
+  "main.js": "/Amfi-Dashboard/static/js/main.c7445012.chunk.js",
+  "main.js.map": "/Amfi-Dashboard/static/js/main.c7445012.chunk.js.map",
+  "runtime~main.js": "/Amfi-Dashboard/static/js/runtime~main.edc1d62b.js",
+  "runtime~main.js.map": "/Amfi-Dashboard/static/js/runtime~main.edc1d62b.js.map",
+  "static/js/2.29fe075e.chunk.js": "/Amfi-Dashboard/static/js/2.29fe075e.chunk.js",
+  "static/js/2.29fe075e.chunk.js.map": "/Amfi-Dashboard/static/js/2.29fe075e.chunk.js.map",
+  "index.html": "/Amfi-Dashboard/index.html",
+  "precache-manifest.8ff661e655260facff1d851d15949977.js": "/Amfi-Dashboard/precache-manifest.8ff661e655260facff1d851d15949977.js",
+  "service-worker.js": "/Amfi-Dashboard/service-worker.js",
+  "static/css/main.d178efb3.chunk.css.map": "/Amfi-Dashboard/static/css/main.d178efb3.chunk.css.map"
 }
