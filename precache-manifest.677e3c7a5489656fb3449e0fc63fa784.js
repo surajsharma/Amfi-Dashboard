@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b664f8848b4ac92d784e",
+    "revision": "7884538a185f446a6fe2",
     "url": "/Amfi-Dashboard/static/css/main.d178efb3.chunk.css"
   },
   {
-    "revision": "b664f8848b4ac92d784e",
-    "url": "/Amfi-Dashboard/static/js/main.c7445012.chunk.js"
+    "revision": "7884538a185f446a6fe2",
+    "url": "/Amfi-Dashboard/static/js/main.14490e1d.chunk.js"
   },
   {
     "revision": "dbef1c7d7af2eaf292b4",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Amfi-Dashboard/static/js/2.29fe075e.chunk.js"
   },
   {
-    "revision": "ce85adf9ff64b5b8286fa7c14f55dcff",
+    "revision": "b66fcd5032aefba6b35a2b309804d36b",
     "url": "/Amfi-Dashboard/index.html"
   }
 ];

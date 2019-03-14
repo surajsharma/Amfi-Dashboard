@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Amfi-Dashboard/precache-manifest.8ff661e655260facff1d851d15949977.js"
+  "/Amfi-Dashboard/precache-manifest.677e3c7a5489656fb3449e0fc63fa784.js"
 );
 
 workbox.clientsClaim();
